@@ -1,4 +1,3 @@
-library(UsingR)
 library(datasets)
 data(swiss)
 
